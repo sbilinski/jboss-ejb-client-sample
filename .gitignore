@@ -1,6 +1,16 @@
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
+.classpath
+.project
+.settings
+*.swp
+*.ipr
+*.iml
+*.iws
+nb-configuration.xml
+.DS_Store
+idea
+stacktrace.log
+/bin
+/build
+/dist
+/idea-target
+target
